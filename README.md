@@ -17,3 +17,6 @@ run
 python make_doll.py
 
 It'll return the doll gif downloaded.
+
+![doll_partial_animation](https://github.com/user-attachments/assets/d3b3ff04-d325-4a46-b5f8-9a461de71e5c)
+
